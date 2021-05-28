@@ -1,7 +1,7 @@
 \newcommand\titleLineOne{Something Somethinhg Computational linguistics}
 \newcommand\titleLineTwo{(that sometimes works)}
 \newcommand\thesisAuthor{Fictional Student}
-\newcommand\supervisor{Dr. Robert Smith}
+\newcommand\supervisor{Dr. Robert G Smith}
 \newcommand\degree{B.Sc. (Hons) in Science in Computing}
 \newcommand\thesisYear{2021}
 \newcommand\institution{TU Dublin}
