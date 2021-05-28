@@ -1,9 +1,9 @@
-\newcommand\titleLineOne{A musical tool written in PHP}
+\newcommand\titleLineOne{Something Somethinhg Computational linguistics}
 \newcommand\titleLineTwo{(that sometimes works)}
-\newcommand\thesisAuthor{Rose Murphy}
-\newcommand\supervisor{Dr. Matt Smith}
+\newcommand\thesisAuthor{Fictional Student}
+\newcommand\supervisor{Dr. Robert Smith}
 \newcommand\degree{B.Sc. (Hons) in Science in Computing}
-\newcommand\thesisYear{2020}
+\newcommand\thesisYear{2021}
 \newcommand\institution{TU Dublin}
 \newcommand\address{Dublin, Ireland}
 \begin{titlepage}
